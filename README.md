@@ -1,5 +1,5 @@
 # ClyHubCore
-ClyHubCore ver. 0.0.1 build: 0000
+ClyHubCore ver. 0.1_0000
 
 Official site:
 
